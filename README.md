@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 :office:
 -->
 
-- :gear: I’m currently working on an XML-TEI edition of a collection of french sociology surveys of the early XXth century usually referred to Le Play's monographs. Checkout some OCR data from this work here :arrow_right: [jeandamien-genero/kraken-ocr-data ](https://github.com/jeandamien-genero/kraken-ocr-data).
+- :gear: I’m a Studies Engineer and I'm currently working on digital editions of historial sources, using XML-TEI, XSLT, Python, LaTeX, OCR.
 
 - :mortar_board: alumnus from [@Chartes-TNAH](https://github.com/Chartes-TNAH) (my Master thesis :arrow_right: [jeandamien-genero/
 Memoire-TNAH](https://github.com/jeandamien-genero/Memoire-TNAH)) and Panthéon-Sorbonne.
 
-- :office: I'm working at the [CNRS Historical Research Center](http://crh.ehess.fr/) as Studies Engineer since December 2020.
+- :office: I'm working at the [CNRS Historical Research Center](http://crh.ehess.fr/) since December 2020.
