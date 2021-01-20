@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 - :office: I'm working at the [CNRS Historical Research Center](http://crh.ehess.fr/) since December 2020.
 
-- :mortar_board: alumnus from [@Chartes-TNAH](https://github.com/Chartes-TNAH) (my Master thesis :arrow_right: [/
+- :mortar_board: alumni from [@Chartes-TNAH](https://github.com/Chartes-TNAH) (my Master thesis :arrow_right: [/
 Memoire-TNAH](https://github.com/jeandamien-genero/Memoire-TNAH)) and Panthéon-Sorbonne.
