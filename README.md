@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 :office:
 -->
 
-- :gear: I’m a Studies Engineer and I'm currently working on digital editions of historial sources, using XML-TEI, XSLT, Python, LaTeX, OCR.
+- :gear: I’m an Engineer and I'm currently working on digital editions of historial sources, using XML-TEI, XSLT, Python, LaTeX, OCR, ...
 
-- :office: I'm working at the [CNRS Historical Research Center](http://crh.ehess.fr/) since December 2020.
+- :office: I'm working at the [CNRS Historical Research Center](http://crh.ehess.fr/) since 2020.
 
 - :mortar_board: alumni from [@Chartes-TNAH](https://github.com/Chartes-TNAH) (my Master thesis :arrow_right: [/
 Memoire-TNAH](https://github.com/jeandamien-genero/Memoire-TNAH)) and Panthéon-Sorbonne.
