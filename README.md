@@ -1,24 +1,24 @@
 ### Hi there 👋
 
-<!--
-**jeandamien-genero/jeandamien-genero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20there%20👋&animation=fadeIn&fontSize=50&fontAlign=50&fontAlignY=30)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-:office:
--->
+I'm **Jean-Damien Généro**, french **digital project manager** in Paris, France and currently working in the **CNRS** (French National Centre for Scientific Research).
 
-- :gear: I’m an Engineer and I'm currently working on digital editions of historial sources, using XML-TEI, XSLT, Python, LaTeX, OCR, ...
+> **2016-2018 :** Master's degree, History and Anthropology of Medieval Societies, Panthéon-Sorbonne University
+> 
+> **2018-2020 :** Master's degree, Digital Technologies apply to Humanities, École nationale des chartes
+> 
+> **2020-now :** **engineer** and **digital project manager** @**CNRS**
 
-- :office: I'm working at the [CNRS Historical Research Center](http://crh.ehess.fr/) since 2020.
 
-- :mortar_board: alumni from [@Chartes-TNAH](https://github.com/Chartes-TNAH) (my Master thesis :arrow_right: [/
-Memoire-TNAH](https://github.com/jeandamien-genero/Memoire-TNAH)) and Panthéon-Sorbonne.
+<div align="center">
+  <div style="display: flex;"flex-direction: "column;">
+    
+![link text](https://img.shields.io/static/v1?label=&message=tex&color=138a07) ![link text](https://img.shields.io/static/v1?label=&message=HTML&color=CE5535) ![link text](https://img.shields.io/static/v1?label=&message=CSS&color=304CDC) ![link text](https://img.shields.io/static/v1?label=&message=Python&color=F3E050) ![link text](https://img.shields.io/static/v1?label=&message=PHP&color=7475A9) ![link text](https://img.shields.io/static/v1?label=&message=XML&color=ff6600) ![link text](https://img.shields.io/static/v1?label=&message=PHP&color=7475A9) ![link text](https://img.shields.io/static/v1?label=&message=XSLT&color=007a00)
+ 
+ 
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.huma-num.fr/jgenero)
+      </div>
+</div>
+
