@@ -3,13 +3,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20there%20👋&animation=fadeIn&fontSize=50&fontAlign=50&fontAlignY=30)
 
-I'm **Jean-Damien Généro**, french **digital project manager** in Paris, France and currently working in the **CNRS** (French National Centre for Scientific Research).
+I'm **Jean-Damien Généro**, french **digital project manager** in Paris, France and currently working in the **[CNRS](https://www.cnrs.fr/en/cnrs)** (French National Centre for Scientific Research).
 
 > **2016-2018 :** Master's degree, History and Anthropology of Medieval Societies, Panthéon-Sorbonne University
 > 
 > **2018-2020 :** Master's degree, Digital Technologies apply to Humanities, École nationale des chartes
 > 
-> **2020-now :** **engineer** and **digital project manager** @**CNRS**
+> **2020-now :** **engineer** and **digital project manager** @**[CNRS](https://www.cnrs.fr/en/cnrs)**
 
 
 <div align="center">
