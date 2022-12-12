@@ -15,7 +15,7 @@ I'm **Jean-Damien Généro**, french **digital project manager** in Paris, Franc
 <div align="center">
   <div style="display: flex;"flex-direction: "column;">
     
-![link text](https://img.shields.io/static/v1?label=&message=tex&color=138a07) ![link text](https://img.shields.io/static/v1?label=&message=HTML&color=CE5535) ![link text](https://img.shields.io/static/v1?label=&message=CSS&color=304CDC) ![link text](https://img.shields.io/static/v1?label=&message=Python&color=F3E050) ![link text](https://img.shields.io/static/v1?label=&message=PHP&color=7475A9) ![link text](https://img.shields.io/static/v1?label=&message=XML&color=ff6600) ![link text](https://img.shields.io/static/v1?label=&message=PHP&color=7475A9) ![link text](https://img.shields.io/static/v1?label=&message=XSLT&color=007a00)
+![link text](https://img.shields.io/static/v1?label=&message=tex&color=138a07) ![link text](https://img.shields.io/static/v1?label=&message=HTML&color=CE5535) ![link text](https://img.shields.io/static/v1?label=&message=CSS&color=304CDC) ![link text](https://img.shields.io/static/v1?label=&message=Python&color=F3E050) ![link text](https://img.shields.io/static/v1?label=&message=PHP&color=7475A9) ![link text](https://img.shields.io/static/v1?label=&message=XML&color=ff6600) ![link text](https://img.shields.io/static/v1?label=&message=XSLT&color=007a00)
  
  
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.huma-num.fr/jgenero)
